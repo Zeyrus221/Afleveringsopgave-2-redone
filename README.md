@@ -27,3 +27,9 @@ Indeholder 72 cifret 2?
     Ja
     Derfor indeholder 7264 cifret 2.
 ```
+
+Som det sidste skridt skal du nu udvide programmet, så det tæller hvor mange af tallene fra 1 til n, der indeholder cifferet c. Hvilken iterativ kontrolstruktur egner sig godt til dette?
+
+Udskriv resultatet med printf: for eksempel hvis input er 100 5, så er output 19.
+
+
